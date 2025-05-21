@@ -11,7 +11,7 @@ This project analyzes a large retail dataset using advanced Excel tools:
 - Dashboard with interactive slicers
 - What-If Analysis & Goal Seek
 - Macros for automation
-- PowerPoint Presentation with business insights
+- PowerPoint Presentations with business insights
 
 ## 🧠 Key Insights
 - Technology category leads in revenue
